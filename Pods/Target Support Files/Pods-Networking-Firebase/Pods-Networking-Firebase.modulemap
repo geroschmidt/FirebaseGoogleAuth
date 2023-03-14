@@ -1,0 +1,6 @@
+framework module Pods_Networking_Firebase {
+  umbrella header "Pods-Networking-Firebase-umbrella.h"
+
+  export *
+  module * { export * }
+}
